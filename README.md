@@ -1,5 +1,4 @@
-# Week 1 Assessment - Submission Branch
-
+# Week 1 Assessment
 This repository contains my Python and Data Engineering Week 1 assessment work.
 
 ## Project Structure

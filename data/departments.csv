@@ -1,6 +1,6 @@
-department,location
-Sales,Chennai
-HR,Chennai
-IT,Bangalore
-Finance,Madurai
-Marketing,Chennai
+department,head,budget
+Sales,Arun,150000
+HR,Priya,100000
+IT,Rahul,300000
+Finance,Karthik,120000
+Marketing,Meena,90000

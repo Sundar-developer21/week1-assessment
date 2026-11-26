@@ -60,3 +60,9 @@ This repository contains my Python and Data Engineering Week 1 assessment work.
 ## Technologies Used
 
 Python, NumPy, Pandas, Matplotlib, Jupyter Notebook, Git and GitHub.
+## Git Workflow
+
+- Created and worked on the submission branch.
+- Committed changes in small steps.
+- Created a Pull Request to merge into main.
+- Resolved a deliberate README merge conflict.
